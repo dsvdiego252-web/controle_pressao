@@ -1,0 +1,11 @@
+{
+  "name": "Minha Pressão",
+  "short_name": "Pressão",
+  "description": "Registro e acompanhamento da pressão arterial",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fc",
+  "theme_color": "#416ee9",
+  "lang": "pt-BR",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
